@@ -1,7 +1,7 @@
 /*
  * parameter_panel.h
  *
- * Author: Zex.Li <zex@hytera.com>
+ * Author: Zex.Li <top_zlynch@yahoo.com>
  */
 #ifndef __PARAMETER_PANEL_H
 #define __PARAMETER_PANEL_H
