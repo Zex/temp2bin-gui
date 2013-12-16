@@ -1,7 +1,7 @@
 /*
  * e2prom-util-gui.h
  *
- * Author: Zex.Li <zex@hytera.com>
+ * Author: Zex.Li <top_zlynch@yahoo.com>
  */
 #ifndef __E2PROM_UTIL_GUI_H
 #define __E2PROM_UTIL_GUI_H
