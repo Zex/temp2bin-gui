@@ -1,7 +1,7 @@
 /*
  * e2prom-util-gui.cpp
  *
- * Author: Zex.Li <zex@hytera.com>
+ * Author: Zex.Li <top_zlynch@yahoo.com>
  */
 #include <QtGui>
 #include <e2prom-util-gui.h>
